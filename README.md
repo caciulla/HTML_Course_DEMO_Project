@@ -1,5 +1,5 @@
 # HTML_Course_DEMO_Project
 
-HTML DEMO Project created in FreeCodeCamp HTML/CSS Tutorial (https://www.youtube.com/watch?v=mU6anWqZJcc)[here].
+HTML DEMO Project created in FreeCodeCamp HTML/CSS [Tutorial](https://www.youtube.com/watch?v=mU6anWqZJcc).
 
-Repo created just for practice and to document my progress 
+Created for practice using Github workflow and to document my progress 🗂🎉
